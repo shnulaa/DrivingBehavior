@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DrivingBehavior</string>
+    <string name="acc_on">ACC_ON</string>
+    <string name="acc_off">ACC_OFF</string>
+    <string name="down_hand">放下手刹</string>
+</resources>
